@@ -5,6 +5,6 @@
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Computer science flash cards](https://github.com/jwasham/computer-science-flash-cards)
 - [Cryptomator](https://github.com/cryptomator/cryptomator)
-- [Exercise A](https://codepen.io/Mar-a-Regina-Rivas-Gir-n/pen/GRemmOb)
+- Codepen [Exercise A](https://codepen.io/Mar-a-Regina-Rivas-Gir-n/pen/GRemmOb)
   
   
